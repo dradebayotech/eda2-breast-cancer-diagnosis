@@ -64,7 +64,7 @@ This project is part of my **data science portfolio**
 
 ## 📂 Dataset Access
 You can download it here:  
-👉 [Breast Cancer Wisconsin (Diagnostic) Dataset on Kaggle](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data)  
+👉 [Breast Cancer Wisconsin (Diagnostic) Dataset on Kaggle](https://www.kaggle.com/datasets/wasiqaliyasir/breast-cancer-dataset)  
 
 ---
 
@@ -84,9 +84,7 @@ You can download it here:
 ---
 
 ## 🚀 Next Steps
-- Perform **feature scaling and dimensionality reduction** (e.g., PCA).  
 - Build baseline ML classifiers (Logistic Regression, Random Forest, XGBoost).  
-- Evaluate performance using precision, recall, and ROC-AUC metrics.  
 
 ---
 ## ✍️ Author
