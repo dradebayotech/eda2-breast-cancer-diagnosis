@@ -46,19 +46,19 @@ This project is part of my **data science portfolio**
 
 | Class Distribution | Correlation Heatmap |
 |--------------------|---------------------|
-| ![Class Distribution](images/class_distribution.png) | ![Heatmap](images/feature_correlation_heatmap.png) |
+| ![Class Distribution](Images/class_distribution.png) | ![Heatmap](Images/feature_correlation_heatmap.png) |
 
 | Boxplot of Features | Pairplot of Key Features |
 |----------------------|--------------------------|
-| ![Boxplot](images/boxplot_selected_features.png) | ![Pairplot](images/pairplot_key_features.png) |
+| ![Boxplot](Images/boxplot_selected_features.png) | ![Pairplot](Images/pairplot_key_features.png) |
 
 
 ---
 
 ## 📁 Files in This Repository
 - `EDA_Project2.ipynb`: Jupyter notebook with full exploratory analysis  
-- `images/`: Folder containing exported plots used in README  
-- `data/`: Folder with sample CSVs (dataset uploaded here)  
+- `Images/`: Folder containing exported plots used in README  
+- `Data/`: Folder with sample CSVs (dataset uploaded here)  
 
 ---
 
