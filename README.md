@@ -88,6 +88,6 @@ You can download it here:
 
 ---
 ## ✍️ Author
-**Dr. Adebayo Fashina**  
+**Adebayo Fashina**  
 📍 Toronto, Canada | [LinkedIn](https://www.linkedin.com/in/your-link-here)  
 
