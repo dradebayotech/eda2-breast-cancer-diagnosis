@@ -16,6 +16,24 @@ This project is part of my **data science portfolio**
 
 ---
 
+## ❓ Key Exploratory Questions Addressed
+
+This analysis was guided by the following nine scientific/research questions, aimed at uncovering data patterns and relationships relevant to breast cancer diagnosis:
+
+1. **What is the Diagnosis Distribution of the Tumor Types (M = Malignant, B = Benign)?**  
+2. **What can you deduce from the descriptive statistics (mean, standard deviation, and skewness) for the 'mean' features in the breast cancer dataset?**  
+3. **What can you deduce from the descriptive statistics (mean, standard deviation, and skewness) for the 'worst' features in the breast cancer dataset?**  
+4. **How do the distributions of the top 6 mean features differ between benign and malignant tumors?**  
+5. **How do the distributions of various breast cancer features (such as radius, texture, perimeter, etc.) differ between benign and malignant tumors?**  
+6. **How are the various features correlated with each other and with the diagnosis?**  
+7. **What are the shapes and ranges of the distributions for key features when separated by diagnosis?**  
+8. **How do pairs of features relate to each other, and does the relationship differ based on the diagnosis?**  
+9. **How do the correlations between pairs of features differ between malignant and benign tumors?**
+
+Each question was explored using descriptive statistics, visualizations, and correlation analyses to uncover clinically meaningful insights.
+
+---
+
 ## 🔍 Key Analysis Steps
 1. **Data Inspection**
    - Dataset contains **569 samples** and **33 features** (including ID and diagnosis).
@@ -32,6 +50,7 @@ This project is part of my **data science portfolio**
    - Boxplots of critical features across diagnosis classes.  
    - Pairplots of selected features to study separability.  
    - And so on.
+
 ---
 
 ## 📊 Insights
