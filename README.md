@@ -82,7 +82,7 @@ Each question was explored using descriptive statistics, visualizations, and cor
 ---
 
 ## 📂 Dataset Access
-You can download it here:  
+You can access or download it here:  
 👉 [Breast Cancer Wisconsin (Diagnostic) Dataset on Kaggle](https://www.kaggle.com/datasets/wasiqaliyasir/breast-cancer-dataset)  
 
 ---
